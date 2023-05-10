@@ -1,3 +1,3 @@
 # miage_app
-## Collaborateur: Nicolas Barbeu, Florian Molia, Ludovic Taret
+## Développeur: Nicolas Barbeu, Florian Molia, Ludovic Taret, Blou Wyllem
 A faire: 
